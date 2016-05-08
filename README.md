@@ -1,6 +1,5 @@
-# cheatsheets
-Cheat Sheets
-============
+# Cheat Sheets
+==============
 
 * Vue.js
 * Markdown
