@@ -1,6 +1,6 @@
 #API Cheat Sheet
 
-#### Instance Methods / Data
+##### Instance Methods / Data
 <http://vuejs.org/api/#Instance-Methods-Data>
 * vm.$watch
 * vm.$get
@@ -10,7 +10,7 @@
 * vm.$interpolate
 * vm.$log
 
-#### Instance Methods / Events
+##### Instance Methods / Events
 <http://vuejs.org/api/#Instance-Methods-Events>
 * vm.$on
 * vm.$once
@@ -19,7 +19,7 @@
 * vm.$dispatch
 * vm.$broadcast
 
-#### Directives
+##### Directives
 <http://vuejs.org/api/#Directives>
 * v-text
 * v-html
@@ -35,7 +35,7 @@
 * v-pre
 * v-cloak
 
-#### Filters
+##### Filters
 <http://vuejs.org/api/#Filters>
 * capitalize
 * uppercase
@@ -48,7 +48,7 @@
 * filterBy
 * orderBy
 
-#### Options / Lifecycle Hooks
+##### Options / Lifecycle Hooks
 <http://vuejs.org/api/#Options-Lifecycle-Hooks>
 * init
 * created
@@ -61,7 +61,7 @@
 * destroyed
 
 
-#### Options Object (instantiation argument)
+##### Options Object (instantiation argument)
 <http://vuejs.org/api/#Options-Data>
 * Data
 * props
@@ -69,7 +69,7 @@
 * methods
 * watch
 
-#### Global API
+##### Global API
 <http://vuejs.org/api/#Global-API>
 * Vue.extend
 * Vue.nextTick
