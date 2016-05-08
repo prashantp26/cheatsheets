@@ -1,7 +1,7 @@
-#API Cheat Sheet
+#VueJS - API Cheat Sheet
 
 ##### Instance Methods / Data
-<http://vuejs.org/api/#Instance-Methods-Data>
+http://vuejs.org/api/#Instance-Methods-Data
 * vm.$watch
 * vm.$get
 * vm.$set
