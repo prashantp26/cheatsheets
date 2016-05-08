@@ -1,4 +1,5 @@
 #VueJS - API Cheat Sheet
+For VueJS Version: 1.0
 
 ##### Instance Methods / Data
 http://vuejs.org/api/#Instance-Methods-Data
